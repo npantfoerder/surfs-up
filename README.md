@@ -15,4 +15,4 @@
 
 #### Resources
 - Data Sources: hawaii.sqlite
-- Software: Python 3.7.3, Anaconda 4.8.3, SQLAlchemy , Virtual Studio Code 1.48.2 
+- Software: Python 3.7.3, Anaconda 4.8.3, SQLAlchemy 1.3.18, Virtual Studio Code 1.48.2 
