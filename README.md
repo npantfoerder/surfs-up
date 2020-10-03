@@ -15,8 +15,8 @@ The investor of a Surf n' Shake shop in Oahu selling surfboards and ice cream wa
 ## Summary
 There were 1,700 temperature measurements taken in June and 1,517 measurements taken in December. 75% of the measurements from June were higher than 73° and 50% of the measurements from December were higher than 71°. The average temperatures in June and December are only 4° apart. December has a larger range of temperatures (56-83°), but only 25% of the measurements are below 69°. Temperature measurements from June range from 64-85°.
 ### Two Additional Queries
-- Percipitation measurements in June range from 0-4.4 with an average of 0.1 and a standard deviation of 0.3. 
-- Percipitation measurements in December range from 0-6.4 with an average of 0.2 and a standard deviation of 0.5.
+- Precipitation measurements in June range from 0-4.4 with an average of 0.1 and a standard deviation of 0.3. 
+- Precipitation measurements in December range from 0-6.4 with an average of 0.2 and a standard deviation of 0.5.
 
 <img src='https://github.com/npantfoerder/surfs-up/blob/master/Images/june_rain.png' width=200> <img src='https://github.com/npantfoerder/surfs-up/blob/master/Images/dec_rain.png' width=200>
 
